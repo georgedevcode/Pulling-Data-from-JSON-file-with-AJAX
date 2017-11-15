@@ -1,0 +1,75 @@
+[
+
+    {
+        "nombre": "Juan Diego Zuniga Arias",
+        "cedula": "111110042",
+        "placa": "MVP506",
+        "marchamo": "¢355000",
+        "precio": "$19000",
+        "categoria": "SUV",
+        "color": "Negro",
+        "year": "2014",
+        "modelo": "Juke",
+        "marca": "Nissan"
+    },
+    {
+        "nombre": "Luis",
+        "cedula": "111110043",
+        "placa": "MVP507",
+        "marchamo": "¢355000",
+        "precio": "$19000",
+        "categoria": "SUV",
+        "color": "Negro",
+        "year": "2014",
+        "modelo": "Juke",
+        "marca": "Nissan"
+    },
+    {
+        "nombre": "Carlos",
+        "cedula": "111110044",
+        "placa": "MVP508",
+        "marchamo": "¢355000",
+        "precio": "$19000",
+        "categoria": "SUV",
+        "color": "Negro",
+        "year": "2014",
+        "modelo": "Juke",
+        "marca": "Nissan"
+    },
+    {
+        "nombre": "Pablo",
+        "cedula": "111110045",
+        "placa": "MVP509",
+        "marchamo": "¢355000",
+        "precio": "$19000",
+        "categoria": "SUV",
+        "color": "Negro",
+        "year": "2014",
+        "modelo": "Juke",
+        "marca": "Nissan"
+    },
+    {
+        "nombre": "Roberto",
+        "cedula": "111110046",
+        "placa": "MVP501",
+        "marchamo": "¢355000",
+        "precio": "$19000",
+        "categoria": "SUV",
+        "color": "Negro",
+        "year": "2014",
+        "modelo": "Juke",
+        "marca": "Nissan"
+    },
+    {
+        "nombre": "Ricardo",
+        "cedula": "111110047",
+        "placa": "MVP502",
+        "marchamo": "¢355000",
+        "precio": "$19000",
+        "categoria": "SUV",
+        "color": "Negro",
+        "year": "2014",
+        "modelo": "Juke",
+        "marca": "Nissan"
+    }
+]

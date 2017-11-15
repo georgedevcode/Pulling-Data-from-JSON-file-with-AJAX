@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Consulta</title>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <meta charset="utf-8">
+</head>
+<body>
+        <div class="container">
+            <h1>Consultas de Datos</h1>
+
+            <div class="multiform row">
+                <div class="form-group col-sm-3">
+                    <label for="cedula">Cedula</label>
+                    <input type="text" name="cedula" id="cedula" class="form-control" placeholder="cedula">
+                    <label for="placa">Placa</label>
+                    <input type="text" name="placa" id="placa" class="form-control" placeholder="placa">
+                    <label for="modelo">Modelo</label>
+                    <input type="text" name="modelo" id="modelo" class="form-control" placeholder="modelo">
+                    <label for="year">Año</label>
+                    <input type="text" name="year" id="year" class="form-control" placeholder="año">
+                </div>
+
+            </div>
+             <button class="btn btn-primary" onclick="consultarDatos()">Consultar</button>
+
+            <div class="row">
+                <h2>Resultados</h2>
+                <div id="lista">
+
+                </div>
+
+            </div>
+
+        </div>
+
+<script
+  src="https://code.jquery.com/jquery-2.2.4.js"
+  integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+  crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/scripts.js"></script>
+</body>
+</html>
